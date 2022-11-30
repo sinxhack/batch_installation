@@ -1,4 +1,4 @@
-## Batch Script Installation For Anti-virus included EasyFix for Windows 7 Cert ##
+## Batch Script Installation For Anti-virus (TrendMicro Apex One) included EasyFix for Windows 7 Cert ##
 This script for batch installation only, the files are not provided.
 This will help to guide for making batch installation
 
